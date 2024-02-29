@@ -20,7 +20,6 @@ Destaques e Aprendizados: <br>
   <li>Manuseio de argumentos de linha de comando para tornar o script interativo</li>
 </ol>
 
-
 Datas Importantes: 
 <ul>
   <li>Início: 21/02/2024</li>
