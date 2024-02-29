@@ -24,5 +24,5 @@ Destaques e Aprendizados: <br>
 Datas Importantes: 
 <ul>
   <li>Início: 21/02/2024</li>
-  <li>Fim: 29/02/2024</li>
+  <li>Conclusão: 29/02/2024</li>
 </ul>
